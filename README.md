@@ -9,4 +9,4 @@ In the `final_c` folder, you will find the code that encodes and decodes shellco
 In the `final` folder, you will find the python script that generates a `.c` template and the corresponding `.exe`. Basically you just hardcode your shellcode there, and you get an executable with only the deobfuscation scheme and the hardcoded datetime strings.  
 
 ## Explanation of the tool
-For an explanation of the tool, you can see a blogpost I made about it on my [blog](https://connar.github.io/posts/customshellcodeloader/)
+For an explanation of the tool, you can see a blogpost I made about it on my [blog](https://connar.github.io/posts/dtscobfuscator/)
